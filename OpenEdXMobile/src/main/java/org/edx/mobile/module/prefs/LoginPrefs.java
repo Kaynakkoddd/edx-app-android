@@ -24,7 +24,8 @@ public class LoginPrefs {
     public enum AuthBackend {
         PASSWORD,
         FACEBOOK,
-        GOOGLE
+        GOOGLE,
+        MICROSOFT
     }
 
     @NonNull
